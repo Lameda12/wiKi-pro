@@ -7,3 +7,5 @@
 /database/*.sqlite
 /storage/logs
 /storage/framework/views/*.php
+/public/index.php
+/public/.htaccess
